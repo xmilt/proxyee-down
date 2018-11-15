@@ -40,3 +40,10 @@ mvn clean package -Pprd
 ```
 java -jar proxyee-down-main.jar
 ```
+
+###快速下载地址
+```
+mac：https://www.lanzous.com/i2bzxne
+win64：https://www.lanzous.com/i2bzygd
+win32：https://www.lanzous.com/i2bzyzc
+```
